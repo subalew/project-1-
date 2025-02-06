@@ -1,0 +1,39 @@
+.appointments-manager {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f3f3f3;
+  width: 50%;
+  margin: 20px auto;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+ .add-appointment input {
+  display: block;
+  width: 60%;
+  margin: 8px auto;
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+} 
+
+.appointments-list {
+  list-style-type: none;
+  padding: 1;
+ 
+  
+} 
+
+.appointment-item {
+  background: white;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+} 
+
